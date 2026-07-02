@@ -5,6 +5,9 @@
 - Sara Lucia Colmenares Bonilla
 - Keynner Sanchez 
 
+# Teachable Machine Created Model:
+https://teachablemachine.withgoogle.com/models/wsc2IWH659/ 
+
 # Descripción del problema
 
 En entornos educativos es común que se requiera identificar rápidamente determinados objetos utilizados por los estudiantes. Realizar esta tarea manualmente puede ser repetitivo y propenso a errores. Por ello, este proyecto propone desarrollar un modelo de Inteligencia Artificial capaz de reconocer diferentes objetos escolares utilizando la cámara web y una red neuronal entrenada con Teachable Machine.
